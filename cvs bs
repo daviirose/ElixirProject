@@ -1,0 +1,16 @@
+CREATE TABLE table_name (
+    rank datatype,
+    place datatype,
+    population datatype,
+    lat datatype,
+    Ion datatype,
+);
+ INSERT  INTO therealone VALUES(7,'San Antonio city',1327407,37.706576,-122.440612);
+
+
+
+sqlite3 new.db
+
+.mode csv
+
+.import newtable.csv cities;

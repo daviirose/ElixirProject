@@ -1,0 +1,204 @@
+body {
+  background-image:url(background.jpg);
+}
+.body {
+  background-image: url(black.jpg);
+}
+
+.container {
+
+
+
+}
+
+header {
+width: 80%;
+height: 40px;
+background:linear-gradient(maroon, maroon, red);
+margin: 0 auto;
+margin-bottom: 75px;
+border-style: solid;
+border-color: black;
+
+}
+
+nav {
+  width: 60%;
+  height: 30px;
+  background:linear-gradient(red, maroon, grey);
+  margin: -40px 290px auto;
+  border-style: solid;
+  border-color: black;
+
+}
+a {
+  font-size: 20px;
+  color: white;
+
+}
+.logo {
+  margin: 10px 10px 100px;
+  float: right;
+  width: 120px;
+  height: 120px;
+}
+.Bullthad {
+  float: left;
+  margin: 10px 10px;
+  width: 100px;
+  height: 100px;
+}
+.shadow {
+  background-color: rgba(0, 0, 0, 0.4);
+  margin: 0;
+  height: 99;
+  width: 150px;
+}
+h1 {
+  margin: 0 auto;
+  color: white;
+  text-shadow: 4px 4px 4px black;
+  font-style: oblique;
+  text-align: center;
+}
+.inline-block {
+  display: inline-block;
+}
+.center-txt {
+  text-align: center;
+}
+.align {
+  margin-left: 100px;
+}
+section {
+  width: 40%;
+  height: 180px;
+  background:linear-gradient(grey, white, grey);
+  margin: 100px 100px 100px 100px;
+  border-style: double;
+  border-color: black;
+  padding-left: 10px;
+
+}
+h2 {
+  font-size: 20px;
+  text-align: center;
+}
+p {
+  font-size: 18px;
+  font-style: oblique;
+
+
+}
+.intro {
+  margin: -15px 5px;
+}
+.intro2 {
+  margin: -5px 5px;
+}
+aside {
+  width: 40%;
+  height: 310px;
+  background:linear-gradient(grey, white, grey);
+  float:right;
+  margin: -287px 100px 100px 100px;
+  border-style: double;
+  border-color: black;
+  padding-bottom: 174px;
+  padding-left: 8px;
+  padding-right: 8px
+
+}
+.video {
+margin: -50px 100px auto;
+width: 580px;
+height:350px;
+}
+.objective {
+padding-bottom: 68px;
+margin: -50px 100px;
+}
+.list {
+  margin: 20px 0px;
+}
+footer {
+  width: 98%;
+  height: 310px;
+  background:linear-gradient(lightskyblue,lightskyblue);
+  margin: 100px 10px;
+  border-style: double;
+  border-color: black;
+  padding-left: 10px;
+}
+form {
+  color: maroon;
+  text-shadow: 2px 2px 2px white;
+  float:right;
+  margin:-290px 100px;
+
+}
+.footerp {
+color: white;
+
+}
+h3 {
+margin: 10px 10px;
+
+}
+.top {
+  width: 150px;
+  height: 200px;
+  display: block;
+  margin: -250px auto;
+}
+.Best {
+  width: 150px;
+  height: 200px;
+  margin: -225px 790px;
+}
+span {
+  float: right;
+  margin: 240px 20px;
+
+}
+table {
+  background:linear-gradient(grey,grey,lightskyblue);
+  color: maroon;
+  margin: 150px 100px;
+}
+  table, th, td {
+    border: 1px solid black;
+}
+th {
+text-align: center;
+}
+.th2 {
+  text-align: left;
+}
+.semester2 {
+  margin: 20px 220px;
+}
+.semester1 {
+  text-align: center;
+margin: 30px 550px;
+
+}
+.semester3 {
+  float: right;
+  margin: -220px 250px;
+}
+.semester4 {
+  text-align: center;
+  margin: 100px 550px;
+}
+.salary {
+  float: right;
+  margin-top: -10px;
+  margin-right: 160px;
+}
+.p2 {
+  margin: 200px 10px 10px 1100px;
+}
+.a2 {
+  margin: 200px 10px 10px 1100px;
+}

@@ -1,0 +1,135 @@
+body {
+  background-image: url(images/background.jpeg);
+}
+nav {
+margin-bottom:20px;
+margin-left: 350px;
+}
+h2 {
+text-align: center;
+}
+p {
+  text-align: center;
+}
+section {
+  background-color: white;
+  height: 500px;
+  width: 399px;
+  margin: 0px auto;
+  margin-bottom: 20px;
+  padding: 0px 5px 0px 5px;
+  border-style: groove;
+  border-color: purple;
+}
+table, tr, td {
+  margin: 0px auto;
+  border: 1px solid black;
+}
+article {
+  background-color: white;
+  height: 150px;
+  width: 500px;
+  margin: 0px auto;
+  margin-bottom: 20px;
+  padding: 0px 5px 15px 5px;
+  border-style: groove;
+  border-color: purple;
+}
+div {
+  height: 80px;
+  width: 80px;
+  background-color: blue;
+  margin: 100px 0px 30px 160px;
+}
+.div2 {
+  height: 80px;
+  width: 80px;
+  background-color: purple;
+  margin: 0px 0px 30px 300px;
+}
+.div3 {
+  height: 80px;
+  width: 80px;
+  background-color: red;
+  margin: -110px 0px 30px 10px;
+}
+img {
+  float: left;
+  margin-top: 100px;
+  height: 100px;
+  width:100px;
+}
+.image2 {
+  float: right;
+}
+.section2 {
+  height: 120px;
+  width: 120px;
+  background:linear-gradient(red,grey,yellow);
+}
+.section3 {
+  height: 350px;
+}
+.section4 {
+  height: 220px;
+}
+.section5 {
+  height: 100px;
+  width: 100px;
+  box-shadow: 8px 8px 8px 8px black;
+}
+.section6 {
+  height: 300px;
+}
+.section7 {
+  height: 300px;
+}
+.shadow {
+  text-shadow: 8px 8px 8px red;
+}
+.shadow2 {
+  text-shadow: 1px 1px blue;
+}
+aside {
+   width: 200px;
+   height: 100px;
+   padding: 50px;
+   border: 1px solid red;
+   margin: 0px auto;
+   box-sizing: border-box;
+}
+.ball {
+    border: 10px solid transparent;
+    padding: 15px;
+    border-image: url(ball.png) 30 round;
+}
+.flex-container {
+    display: -webkit-flex;
+    display: flex;
+    width: 400px;
+    height: 250px;
+    background-color: lightgrey;
+    margin: 0px auto;
+    margin-top: 50px;
+}
+
+.flex-item {
+    background-color:teal;
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+
+}
+.column {
+  height:150px;
+  width:600px;
+  font-size: 8px;
+  column-count: 2;
+  column-gap: 20px;
+  column-rule: 1px dashed green;
+  column-rule-color: red;
+  padding-top: 10px;
+}
+h2 {
+text-align: center;
+}

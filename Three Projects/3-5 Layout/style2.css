@@ -1,0 +1,65 @@
+img {
+  width: 400px;
+  height: 150px;
+}
+form {
+  float: right;
+  margin-top: 80px;
+  margin-right: 100px;
+}
+.login {
+  background-color: maroon;
+  color: white;
+}
+section {
+  background-color: grey;
+  width: 220px;
+  height: 200px;
+  margin-top: 300px;
+  margin-left: 200px;
+}
+h1 {
+  text-align: center;
+  margin-top: -210px;
+  margin-bottom: -10px;
+}
+h2 {
+  text-align: center;
+}
+p {
+  text-align: center;
+  margin-left: 100px;
+}
+aside {
+  margin-top: -100px;
+}
+.image2 {
+  width: 20px;
+  height: 20px;
+  margin-top: 400px;
+
+}
+.p2 {
+  display: inline-block;
+  margin-left:400px;
+}
+.p3 {
+  display: inline-block;
+
+}
+.p4 {
+  display: inline-block;
+
+}
+.p5 {
+
+  display: inline-block;
+
+}
+.p6 {
+  text-align: center;
+}
+a {
+  margin-left: 300px;
+
+}

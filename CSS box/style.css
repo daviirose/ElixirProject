@@ -1,0 +1,25 @@
+.container{
+  width:960px;
+  background-color: purple;
+  height:100%;
+  margin:0 auto;
+  min-width: 480px;
+  max-height: 960px;
+
+}
+
+.block {
+  width:30px;
+  height:30px;
+  margin:10px 10px 10px 10px;
+  background-color:blue;
+  display:block;
+
+}
+.block:first-of-type {
+  background-color: red;
+
+}
+.block:nth-last-of-type(odd) {
+  background-color: pink;
+}
