@@ -36,7 +36,7 @@ defmodule ElixirProject.Endpoint do
   plug Plug.Session,
     store: :cookie,
     key: "_elixirProject_key",
-    signing_salt: "+p8YzapZ"
+    signing_salt: "aAEN2CHm"
 
   plug ElixirProject.Router
 end

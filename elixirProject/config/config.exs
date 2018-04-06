@@ -12,7 +12,7 @@ config :elixirProject,
 # Configures the endpoint
 config :elixirProject, ElixirProject.Endpoint,
   url: [host: "localhost"],
-  secret_key_base: "U30cK3DBA/Wo9vN3zqO79VxzXvPkkRzHfk7FG9ux9w/6CYTeDCRlznMFB+AEnsxM",
+  secret_key_base: "FezbdpUiUM/cvvmt2DELZKturfVHfioMYILWT130YH0CUBkhXMLaPCORzH5kprX5",
   render_errors: [view: ElixirProject.ErrorView, accepts: ~w(html json)],
   pubsub: [name: ElixirProject.PubSub,
            adapter: Phoenix.PubSub.PG2]
